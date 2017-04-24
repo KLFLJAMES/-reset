@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"第一个分支V1.0.0");
+    NSLog(@"第一个分支V1.0.0第二次提交");
 }
 
 
